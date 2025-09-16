@@ -1,0 +1,1 @@
+If the substances of a mixture has different phases then that mixture is called heterogeneous mixture

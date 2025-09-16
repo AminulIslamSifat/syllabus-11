@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "33718e35f36f4e11",
+    "type": "split",
+    "children": [
+      {
+        "id": "4090bcf26aee6ef0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "346f6d91b6ba7537",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Distribution Law and its Application.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Distribution Law and its Application"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9e4a924c00e49c12",
+    "type": "split",
+    "children": [
+      {
+        "id": "7800e4bb0227c385",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9551779d93fe44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a40f5a2becb393fd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8995160d814a3fbe",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c19b2052bd2aab97",
+    "type": "split",
+    "children": [
+      {
+        "id": "f91552156cc75f22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba08ccf039dfdd64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "98d2160801b43c4a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ded2b1a746cddea5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Mechanism of Dissolution.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Mechanism of Dissolution"
+            }
+          },
+          {
+            "id": "77b635ac1be22d76",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "346f6d91b6ba7537",
+  "lastOpenFiles": [
+    "Syllabus/Chemistry.md",
+    "Distribution Law and its Application.md",
+    "Henry's Law.md",
+    "Solution of Gases in Liquids.md",
+    "Syllabus/CSE 1101.md",
+    "Syllabus/English.md",
+    "Syllabus/EEE 1151.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "Untitled.canvas",
+    "Pressure.md",
+    "Nature of the components.md",
+    "Factors Influencing the Solubility of Substance.md",
+    "Different Units of Concentration.md",
+    "CV.md",
+    "Temperature.md",
+    "Mechanism of Dissolution.md",
+    "Lattice energy.md",
+    "Hydration energy.md",
+    "Hydration enery.md",
+    "cv.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts",
+    "Chemistry",
+    "Syllabus",
+    "Untitled 1.base",
+    "Untitled.base"
+  ]
+}
